@@ -1,1 +1,1 @@
-export * from './user.js'
+export { fetchUsers, fetchUserById } from './user';

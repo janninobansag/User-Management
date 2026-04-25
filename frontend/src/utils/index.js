@@ -1,0 +1,1 @@
+export { getUsersData } from './getUsers';
